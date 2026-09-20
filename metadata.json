@@ -1,0 +1,7 @@
+{
+  "name": "TrustHire AI",
+  "description": "AI-powered recruitment management platform for recruiters and HR teams featuring resume screening, candidate matching, certificate verification, and intelligent assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
